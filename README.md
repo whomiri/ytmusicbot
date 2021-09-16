@@ -2,6 +2,10 @@
 
 Desteklenenler: YouTube/SoundCloud/Mixcloud
 
+## HEROKU DESTEKLENIR 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whomiri/ytmusicbot)
+
 ## El ile deploy
 
 ```
