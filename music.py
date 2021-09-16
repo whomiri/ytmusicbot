@@ -1,3 +1,5 @@
+# Tg music bot
+
 import os
 import asyncio
 from datetime import timedelta
