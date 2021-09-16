@@ -1,3 +1,6 @@
+# DOSYA UZANTISI JSON OLARAG DEYISDIRILMELIDI
+# IF YOUR CHANGE OR FORK THE REPO, REMARK THE FILE END FOR .json 
+
 {
   "name": "Telegram Music Bot",
   "description": "Bot YouTube/SoundCloud/Mixcloud destekleyir",
