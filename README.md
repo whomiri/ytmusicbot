@@ -2,6 +2,9 @@
 
 Desteklenenler: YouTube/SoundCloud/Mixcloud
 
+## Emrler 🛠
+- `/ping` - Botun ping deyerini olcer / Emrler Arttirilir
+
 ## HEROKU DESTEKLENIR 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whomiri/ytmusicbot)
